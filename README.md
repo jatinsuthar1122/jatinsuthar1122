@@ -1,11 +1,6 @@
 # 💫 About Me:
 Hi, I am Jatin ✨​(jatinsuthar1122) 👋<br><br>I am a 3rd year computer science/application and designer student. <br><br>Currently trying to improve my coding skills in algorithms, data structurs and also the web part (front-end actually and back after some other projects).<br><br><br><br>Really into coding some app and trying to get experience in software engineering and web developement.<br><br>I am doing some exercices and projects on android studio and other ide to reach this goal.<br>Also doing web dev to learn.<br><br>Connect with me<br><br>LinkedIn: Jatin Suthar<br><br>🌐 Socials:<br>[LinkedIn](https://www.linkedin.com/in/jatin-suthar-2bbb5a395 / Jatin Suthar)
 
-**These days I’m focused on:**
-- React, TypeScript, Tailwind
-- UI components with subtle motion
-- Small, thoughtful projects with polish
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-suthar-2bbb5a395 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sutharjatin77@gmail.com) 
 
